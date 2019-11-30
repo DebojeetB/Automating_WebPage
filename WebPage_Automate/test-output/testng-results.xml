@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54460" started-at="2019-11-30T17:31:04 IST" finished-at="2019-11-30T17:31:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54460" started-at="2019-11-30T17:31:04 IST" finished-at="2019-11-30T17:31:58 IST">
+      <class name="Source.TC_01">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Source.TC_01@2b9627bc]" name="openBrowser" is-config="true" duration-ms="34297" started-at="2019-11-30T17:31:04 IST" finished-at="2019-11-30T17:31:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Enter_Creds()[pri:0, instance:Source.TC_01@2b9627bc]" name="Enter_Creds" duration-ms="20112" started-at="2019-11-30T17:31:38 IST" finished-at="2019-11-30T17:31:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enter_Creds -->
+      </class> <!-- Source.TC_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
